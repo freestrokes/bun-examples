@@ -2,6 +2,9 @@
   "name": "bun-examples",
   "module": "index.ts",
   "type": "module",
+  "workspaces": [
+    "packages/vite-app"
+  ],
   "devDependencies": {
     "@types/bun": "latest",
     "bun-types": "^1.1.45"
