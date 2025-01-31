@@ -2,6 +2,8 @@
   "name": "bun-examples",
   "module": "index.ts",
   "type": "module",
+  "version": "1.0.0",
+  "private": true,
   "workspaces": [
     "packages/vite-app-1",
     "packages/vite-app-2",
